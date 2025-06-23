@@ -6,16 +6,16 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Code.+Create.+Learn.;Always+building+something+new...;Open+to+collaboration+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
-y
----
+
 
 ### 🧠 About Me
 
 - 🎓 CSE undergrad from CUSAT  
 - 🌱 Currently exploring: **MERN**, and **ML**  
 - 💼 Interested in tech that solves real problems
-- 📈 Practicing **Data Structures & Algorithms** regularly  `LeetCode`
-- 🛠️ Building passion projects while learning on the go  
+- 📈 Practicing **Data Structures & Algorithms** regularly on `LeetCode`
+- 🛠️ Building passion projects while learning on the go
+- 🛠️ Contributing to several open source & Hacktoberfest 2023 winner.
 - ⚡ Fun fact: I overuse `console.log` and `print()` but regret nothing
 
 ---
@@ -55,7 +55,7 @@ y
 ### 🌐 Connect with Me
 
 <p>
-  📫 Email: [kumarayush182003@gmail.com](mailto: kumarayush182003@gmail.com)  
+  📫 Email: [kumarayush182003@gmail.com](kumarayush182003@gmail.com)  
   🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/kumar-ayush-1b9b51198)  
   📄 [View My Resume](https://drive.google.com/file/d/1-F0JvGHrkEYhwCDiJGqnAKg3OFwiasdY/view?usp=drivesdk)
 
