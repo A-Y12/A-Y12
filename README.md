@@ -6,14 +6,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Code.+Create.+Learn.;Always+building+something+new...;Open+to+collaboration+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
-
+y
 ---
 
 ### 🧠 About Me
 
 - 🎓 CSE undergrad from CUSAT  
 - 🌱 Currently exploring: **MERN**, and **ML**  
-- 💼 Interested in tech that solves real problems  
+- 💼 Interested in tech that solves real problems
+- 📈 Practicing **Data Structures & Algorithms** regularly  `LeetCode`
 - 🛠️ Building passion projects while learning on the go  
 - ⚡ Fun fact: I overuse `console.log` and `print()` but regret nothing
 
@@ -22,7 +23,7 @@
 ### 🧰 Tech Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,react,flask,nodejs,mongodb,mysql,js,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=python,react,flask,nodejs,mongodb,mysql,js,html,css,git,django,postgresql,expressjs" />
 </p>
 
 ---
@@ -31,9 +32,9 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
+| 🎓 [**LMS Platform**](https://github.com/A-Y12/LMS) | Learning Management System for students | `React`, `Node.js`, `MongoDB`, `Express.js`, `PostgreSQL` |
 | 🔎 [**Sentiment Analysis**](https://github.com/A-Y12/Sentiment_Analysis) | NLP tool using Vader to analyze user sentiments | `Python`, `NLTK`|
 | 🧠 [**Interact_IQ**](https://github.com/A-Y12/Interact_IQ) | Smart interview prep platform powered by AI | `React`, `Flask`, `MongoDB` |
-| 🎓 [**LMS Platform**](https://github.com/A-Y12/LMS) | Learning Management System for students | `React`, `Node.js`, `MongoDB`, `Express.js`, `PostgreSQL` |
 | 📈 [**Trading Algo**](https://github.com/A-Y12/Trading-Algo) | Backtested strategy using financial data | `Python`, `Pandas`, `Matplotlib` |
 
 ---
@@ -55,9 +56,8 @@
 
 <p>
   📫 Email: [kumarayush182003@gmail.com](mailto: kumarayush182003@gmail.com)  
-  🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-  🌍 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
-</p>
+  🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/kumar-ayush-1b9b51198)  
+  📄 [View My Resume](https://drive.google.com/file/d/1-F0JvGHrkEYhwCDiJGqnAKg3OFwiasdY/view?usp=drivesdk)
 
 ---
 
