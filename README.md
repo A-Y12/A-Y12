@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Ayush</h1>
 <p align="center">
-  🧑‍💻 CUSAT CS Student | 🧠 ML Explorer | 💡 Full-stack Dev
+💡 Full-stack Dev | 🧠 ML Explorer |  🧑‍💻 BTech CSE CUSAT 
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ### 🧠 About Me
 
-- 🎓 CSE undergrad at CUSAT  
+- 🎓 CSE undergrad from CUSAT  
 - 🌱 Currently exploring: **MERN**, and **ML**  
 - 💼 Interested in tech that solves real problems  
 - 🛠️ Building passion projects while learning on the go  
@@ -22,7 +22,7 @@
 ### 🧰 Tech Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,react,flask,tailwind,nodejs,mongodb,mysql,js,ts,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=python,react,flask,nodejs,mongodb,mysql,js,html,css,git" />
 </p>
 
 ---
@@ -31,9 +31,9 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🔎 [**Sentiment Analysis**](https://github.com/A-Y12/Sentiment_Analysis) | NLP tool using Vader to analyze user sentiments | `Python`, `NLTK`, `VADER` |
+| 🔎 [**Sentiment Analysis**](https://github.com/A-Y12/Sentiment_Analysis) | NLP tool using Vader to analyze user sentiments | `Python`, `NLTK`|
 | 🧠 [**Interact_IQ**](https://github.com/A-Y12/Interact_IQ) | Smart interview prep platform powered by AI | `React`, `Flask`, `MongoDB` |
-| 🎓 [**LMS Platform**](https://github.com/A-Y12/LMS) | Learning Management System for students | `React`, `Node.js`, `MongoDB` |
+| 🎓 [**LMS Platform**](https://github.com/A-Y12/LMS) | Learning Management System for students | `React`, `Node.js`, `MongoDB`, `Express.js`, `PostgreSQL` |
 | 📈 [**Trading Algo**](https://github.com/A-Y12/Trading-Algo) | Backtested strategy using financial data | `Python`, `Pandas`, `Matplotlib` |
 
 ---
